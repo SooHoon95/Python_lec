@@ -1,1 +1,1 @@
-# Python_lec
+# This is Python Lecture Repository
